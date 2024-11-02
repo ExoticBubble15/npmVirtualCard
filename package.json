@@ -1,0 +1,29 @@
+{
+  "name": "judecl",
+  "version": "1.1.1",
+  "description": "judecl's virtual business card",
+  "main": "index.js",
+  "type": "module",
+  "bin": "./index.js",
+  "files": [],
+  "scripts": {
+    "setup": "npm install",
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "boxen": "^8.0.1",
+    "chalk": "^5.3.0",
+    "clear": "^0.1.0",
+    "clipboardy": "^4.0.0",
+    "derrick": "^1.1.1",
+    "enquirer": "^2.4.1",
+    "got": "^14.4.3",
+    "hyperlinker": "^1.0.0",
+    "inquirer": "^12.0.1",
+    "open": "^10.1.0",
+    "terminal-image": "^3.0.0"
+  }
+}
